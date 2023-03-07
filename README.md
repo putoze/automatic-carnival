@@ -3,6 +3,10 @@
 ### Hi there 👋 
 
 Welcome! This is putoze, a graduate student in EECS at NCHU.
+<p align="left">
+  <img src="img/ralph-wave.gif" width="500" heigh ="250"/>
+</p>
+
 
 <!-- GitHub Statistics -->
 
