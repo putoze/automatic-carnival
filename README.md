@@ -21,10 +21,9 @@ Welcome! This is putoze, a graduate student in EECS at NCHU.
 <div >
 
 ## 💡 Projects
-- [2021_SP_IC_LAB](https://github.com/stars/putoze/lists/ic-lab-2021-spring-public)
-- [Ic_contest](https://github.com/stars/putoze/lists/ic-contest)
-- [2023_RL_Lecture](https://github.com/putoze/RL_lecture)
-- [2023_FPGA](https://github.com/putoze/FPGA)
+- [2021_SP_IC_LAB_public](https://github.com/stars/putoze/lists/ic-lab-2021-spring-public)
+- [IC_Contest](https://github.com/stars/putoze/lists/ic-contest)
+- [NCHU](https://github.com/stars/putoze/lists/nchu)
 
 ## 💡 Cute Things
 
