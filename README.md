@@ -1,6 +1,6 @@
 <!-- GitHub introduction -->
 
-### Hi there 👋 
+### Hi there 👋  ![](https://komarev.com/ghpvc/?username=putoze)
 
 Welcome! This is putoze, a graduate student in EECS at NCHU.
 <p align="left">
