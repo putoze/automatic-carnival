@@ -28,9 +28,7 @@ Welcome! This is putoze, a graduate student in EECS at NCHU.
 - C/C++
 
 ## 💡 Projects
-- [2021_SP_IC_LAB_public](https://github.com/stars/putoze/lists/ic-lab-2021-spring-public)
 - [IC_Contest](https://github.com/stars/putoze/lists/ic-contest)
-- [NCHU](https://github.com/stars/putoze/lists/nchu)
 
 ## 🔗 Cute Things
 
