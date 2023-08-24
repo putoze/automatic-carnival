@@ -1,10 +1,10 @@
 <!-- GitHub introduction -->
 
-<h1 align="left"> Hi there 👋  </h1> ![](https://komarev.com/ghpvc/?username=putoze)
+<h1 align="left"> Hi there 👋  </h1> 
 
 Welcome! This is putoze, a graduate student in EECS at NCHU.
 <p align="left">
-  <img src="img/ralph-wave.gif" width="250" heigh ="250"/>
+  <img src="img/ralph-wave.gif" width="250" heigh ="300"/>
 </p>
 
 
