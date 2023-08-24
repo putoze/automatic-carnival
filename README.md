@@ -27,9 +27,6 @@ Welcome! This is putoze, a graduate student in EECS at NCHU.
 - verilog/systemverilog
 - C/C++
 
-## 💡 Projects
-- [IC_Contest](https://github.com/stars/putoze/lists/ic-contest)
-
 ## 🔗 Cute Things
 
 <a href=#><img src="https://github.com/sicajc/Interesting-readme-template/blob/main/contributions.svg"></a>
