@@ -22,9 +22,9 @@ Welcome! This is putoze, a graduate student in EECS at NCHU.
   
 ## 📚 Langues
 
+- verilog/systemverilog
 - Matlab
 - python
-- verilog/systemverilog
 - C/C++
 
 ## 🔗 Cute Things
