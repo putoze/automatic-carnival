@@ -22,7 +22,7 @@ Welcome! This is putoze, a graduate student in EECS at NCHU.
   
 ## 📚 Langues
 
-- verilog/systemverilog
+- Verilog/Systemverilog
 - Matlab
 - python
 - C/C++
